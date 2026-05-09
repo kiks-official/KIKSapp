@@ -1,4 +1,4 @@
-!pip install ...
+
 import streamlit as st
 
 # 1. ページ設定の強化（学校のカラーに合わせるなどの準備）
